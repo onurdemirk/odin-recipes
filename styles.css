@@ -1,0 +1,31 @@
+* {
+    background-color: rgb(210, 206, 199);
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color:darkolivegreen
+}
+
+a {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: solid;
+    color:darkgoldenrod
+
+}
+
+p {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 10px;
+    color:brown;
+}
+
+.naruto {
+    width: 150px;
+    height: auto;
+}
+
+.container {
+    text-align: center;
+}
